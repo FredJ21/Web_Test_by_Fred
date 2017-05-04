@@ -1,4 +1,7 @@
-Wed May  3 17:24:19 CEST 2017
-Wed May  3 17:25:07 CEST 2017
-Wed May  3 17:28:48 CEST 2017
-Thu May  4 16:24:04 CEST 2017
+total 36
+drwxr-xr-x  3 fjelmoni fjelmoni  4096 May  3 09:45 .
+drwxr-xr-x 12 fjelmoni fjelmoni  4096 May  4 16:04 ..
+-rw-r--r--  1 fjelmoni fjelmoni     0 May  4 16:27 date.txt
+drwxr-xr-x  8 fjelmoni fjelmoni  4096 May  4 16:27 .git
+-rw-r--r--  1 fjelmoni fjelmoni 18046 May  3 09:31 LICENSE
+-rw-r--r--  1 fjelmoni fjelmoni     6 May  3 09:31 README.md
