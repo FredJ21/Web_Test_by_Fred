@@ -6,3 +6,4 @@ drwxr-xr-x  8 fjelmoni fjelmoni  4096 May  4 16:27 .git
 -rw-r--r--  1 fjelmoni fjelmoni 18046 May  3 09:31 LICENSE
 -rw-r--r--  1 fjelmoni fjelmoni     6 May  3 09:31 README.md
 Thu May  4 16:29:52 CEST 2017
+Thu May  4 16:35:12 CEST 2017
