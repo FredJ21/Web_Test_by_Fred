@@ -1,0 +1,17 @@
+Risk assessment
+	1. Cataloging assets and capabilities (resources) in a system.
+	2. Assigning quantifiable value (or at least rank order) and importance to those resources
+	3. Identifying the vulnerabilities or potential threats to each resource
+	4. Mitigating or eliminating the most serious vulnerabilities for the most valuable resources
+Vulnerability assessment
+	Quantitative
+	Qualitative
+	Defining critical support areas
+Evaluation Assurance Level
+	EAL1: Functionally Tested
+	EAL2: Structurally Tested
+	EAL3: Methodically Tested and Checked
+	EAL4: Methodically Designed, Tested and Reviewed
+	EAL5: Semiformally Designed and Tested
+	EAL6: Semiformally Verified Design and Tested
+	EAL7: Formally Verified Design and Tested
