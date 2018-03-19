@@ -15,3 +15,63 @@ Evaluation Assurance Level
 	EAL5: Semiformally Designed and Tested
 	EAL6: Semiformally Verified Design and Tested
 	EAL7: Formally Verified Design and Tested
+
+IPSec
+	AH Authentification Header
+	ESP Encapsulation Security Payload
+	ISAKMP Internet Security Association an Key Management Protocol
+	IKE Internet key Exchange
+	OAKLEY based on the Diffie-Hellman algorithm , but sperseded (remplace) by IKE
+
+
+Symmetric Encryption
+	DES
+		Key size : 56bits
+		ECB - Electronic Code Book
+			- native mode
+			- it is most likely used for database encryption
+			- applied to 64 bits blocks of plaintext
+			- product 64 bits data block of ciphertext
+		OFB
+		CBC
+		CFB 
+
+	Triple DES
+		can use a maximum of three keys
+		DES-EDE3
+	
+	AES Rijndael
+		Key size : 128, 192, 256
+		Block size : 128
+
+	Skipjack	block cipher
+	Blowfish	block cipher (64bits)
+	RC4		stream ciphers
+		Key size : 40 to 256 bits
+	Clipper Chip
+		Key size : 80 bits
+
+Public key algorithm
+	RSA   PKCS#1
+
+	SESAME http://www.eurecom.fr/~nsteam/Papers/kryptoknight.pdf
+	El Gamal 
+
+KERBEROS
+	dependent on Secret key cryptography
+
+Digital signatures
+	RSA
+	DSA
+	ECC Elliptic Curves
+
+Hash Algorithm
+	MD4 
+	MD5 - generate a 128 bits messages digest
+	SHA-1 SHA-256
+
+
+Systems Development Life Cycle - DSLC
+
+
+
