@@ -70,7 +70,7 @@ export function App() {
             <Logo
               image={logo}
               title="Mon site web"
-              subtitle="Ceci est un test"
+              subtitle="Ceci est un test 2"
             />
           </div>
           <div className="col-12 col-md-5">
